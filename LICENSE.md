@@ -24,4 +24,4 @@ Above written does not apply because this is not a projects this is a just a spe
 and in case of public use the one has to pay a fee of 1000EU or 100000rsd to the owner of 
 this repo.
 
-I accept paypal: nmitic.dev@yahoo.com
+I accept paypal: nmitic.dev@yahoo.com (part of this fee will be donated)
